@@ -1,0 +1,65 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  font-family: arial;
+}
+
+
+
+.testo{
+  color: lime;
+}
+
+div{
+  text-align: center;
+}
+
+#space{
+  position: relative;
+  top: 120px;
+}
+
+.logo{
+  width: 250px;
+}
+
+.container{
+  position: relative;
+  top: 130px;
+  width: 1200px;
+  color: white;
+  font-size: 15px;
+}
+
+.rettangolo1{
+  width: 300px;
+  height: 30px;
+  margin-left: 480px;
+  background-color: orange;
+}
+
+.rettangolo2{
+  width: 500px;
+  height: 30px;
+  margin-left: 480px;
+  background-color: green;
+}
+
+.rettangolo3{
+  width: 200px;
+  height: 30px;
+  margin-left: 480px;
+  background-color: red;
+}
+
+span{
+  font-size: 25px;
+}
+
+.background-lime{
+  text-align: center;
+  background-color: lime;
+  padding: 10px;
+  margin-left: 480px;
+  margin-right: 480px;
+}
